@@ -1,0 +1,5 @@
+package com.fsad.util;
+
+public class HibernateUtil {
+
+}
